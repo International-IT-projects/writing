@@ -59,10 +59,12 @@ You have the following stats:
 - Stamina
 - Reputation
 - Knowledge
+- Happiness
+- Stress
 
 ### Stamina
 
-Each action will cost some stamina. Day may end early if you have no stamina left
+Each action will cost some stamina. Day may end early if you have no stamina left. Stamina may be improved by after shift actions.
 
 ### Reputation
 
@@ -70,7 +72,7 @@ Each successful action will increase your standing with company. High reputation
 
 ### Knowledge
 
-Each action may increase your knowledge. Higher knowledge will lessen your burden, thus lessen stamina cost of action. Some actions can not be made without proper knowledge. (Such as HA, some patches)
+Each action may increase your knowledge. Higher knowledge will lessen your burden, thus lessen stamina cost of action. Some actions can not be made without proper knowledge. (Such as HA, some patches) Knowledge may decrease overtime because of stale knowledge and new improvements made in field. You may use after shift actions to improve your knowledge.
 
 ### Time
 
@@ -79,10 +81,21 @@ Time is used to track the progress. Each action will cost some time. You may ove
 - Lesser stamina for following day
 - Shorter work day
 - Missed duty-calls
+- After shift action
+
+Each workday is a fixed count of hours.
+
+### After shift actions
+This actions are only usable if time allows it. This actions are used to improve all possible stats and each have different affect on following day:
+- Visit the gym: Will improve happiness and stamina but will decrease usable stamina for following day
+- Visit the family: Will improve happiness but may increase the stress for following day
+- Read books: Will improve knowledge but may decrease happiness and increase the stress
+- Overtime: Will improve reputation but will decrese happiness
 
 ### Missed duty-calls
 
 You will get warning signals from servers occasionally. You will need to take action swiftly and correctly. Missing the call may cause a server (or service) downtime. Each downtime will affect your reputation.
+
 
 ## End game
 
