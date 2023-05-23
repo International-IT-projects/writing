@@ -48,8 +48,9 @@ Sometimes the network is in fault and you need to call for network assistants to
 
 ### Create HA infrastructure
 Your company may sign a HA contract for some specific softwares. Thus you are required to create HA infrastructure
+
 ### Patching the servers
-Sometimes software requirements may change and you may be required to upgrade server software.
+Sometimes software requirements may change and you may be required to upgrade server software. Some actions requires higher knowledge than others.
 
 
 ## Player stats
@@ -69,7 +70,7 @@ Each successful action will increase your standing with company. High reputation
 
 ### Knowledge
 
-Each action may increase your knowledge. Higher knowledge will lessen your burden, thus lessen stamina cost of action. 
+Each action may increase your knowledge. Higher knowledge will lessen your burden, thus lessen stamina cost of action. Some actions can not be made without proper knowledge. (Such as HA, some patches)
 
 ### Time
 
