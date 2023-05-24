@@ -117,4 +117,107 @@ If your reputation falls below a treshold you will be fired
 
 If you can manage the company for sometime you will have a chance to be retired.
 
+--------------
+
+# Incremental Game Idea - Guild master
+
+## The premise
+You are the master of freshly started guild in a mmorpg game. You somewhat convinced your party mates to create a new guild and in exchange they appointed you as the guild master. Your duty is to manage relationship between guild members and create party's or raids to increase your guilds standing.
+
+## Summary
+You have been kicked out from your old guild because you've accoused the guild master cheating with roll for that shiny gear when you were in party with him. You managed to convince some of members to join you in the new guild.
+
+## Gameplay
+Idle and Active plays have different effect on game. 
+
+### Active play
+You are able to take role in party and/or raid as the leader and give command to members to increase success rate of missions.
+
+### Idle play
+When you are idle your guild members will party randomly and affect overall status of guild and earnings
+
+### Guild members
+Guild members can have in-game stats , also social effects as well.
+
+In-game stats:
+- Class strength
+- HP
+- Magic resistance
+- Defence
+Class strength effects success of role execution when others effects survivalibility
+
+Social effects:
+- Foul mood
+- Long day
+- Envy
+- Angry
+- Lazy
+- <To be continued>
+
+### Missions
+There are different kind of missions:
+
+- Solo
+- 3 player party
+- 5 player party
+- 10 player raid
+- 20 player raid
+- 40 player raid
+
+Missions are free to pick-up but does have penalty in case of failure.
+
+Missions have different requirements. Requirements may be but limited to following:
+
+- X tanks or Y healers or Z burst damage
+- Having specific classes
+- Having specific items
+- Having level differency between players
+- Having max level
+- Having min level
+
+Missions have the following effects:
+
+On success:
+- Increase of guild standing
+- Generating an income
+- Leveling up the players
+
+On failure
+- Decrease of guild standing
+- Loss of currency because of damaged gear
+- Some disturbance in social stability of guild 
+
+
+
+### Classes
+Guild members can have 3 different class: 
+- Tank
+- Healer
+- Damage dealer
+Some members can execute some tasks more efficiently/class compatibility  than others. It's your duty to guide the players to success. 
+
+### Gearing
+Players have only 4 type of gears:
+- Armor set: Used to determine health of player
+- Weapon: Used to determine magic power or attack power of player
+- Offhand: Used to determine magic power or defense power of player
+- Accessory: Used to increase stats
+
+Gears can be infused with mana to increase efficiency
+
+## Active play
+Guild master can:
+- Join the party/raid to increase success rate
+- Create parties to send to missions
+- Can Buy and sell gears and consumables
+- Buy skills for guild to increase success rate of missions
+- Recruit players
+- Assign roles to players and test abilities for the role
+
+## Idle play
+When guild master went idle the following events take place:
+- Guild members who are not in a mission will have social interaction with eachother
+- Guild members may return from missions.
+
+
 
