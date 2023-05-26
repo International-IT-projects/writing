@@ -2,6 +2,14 @@
 
 IT international shared writing
 
+# excel task system
+
+An excel web user interface where you can define state machines to power websites and systems.
+
+![excel-task-system](https://github.com/International-IT-projects/writing/assets/1983701/4e9afd1a-d034-47c2-9411-92788b2def84)
+
+
+
 # fantasy cloud game idea
 
 A game where you have to buy servers and keep a website online that receives too much traffic.
