@@ -6,6 +6,15 @@ IT international shared writing
 
 An excel web user interface where you can define state machines to power websites and systems.
 
+I want a distributed computing pseudo content addressed speadsheet where each cell is a process, thread, function, server, program, user, avatar or API.
+I can type "=" for inserting a formula into a cell like Excel then type a repl.it template and bring up a server, or a template environment with everything preconfigured.
+
+I want to depend on other people's solutions to problems. We are all independently running agents.
+
+Perhaps it could be a chat room similar to a MUD where each person runs servers and runs programs that depend on eachother. A mesh of computation and storage.
+
+Perhaps there should be some central hub which tracks the state of different services and workflows, similar to Temporal.io.
+
 ![excel-task-system](https://github.com/International-IT-projects/writing/assets/1983701/4e9afd1a-d034-47c2-9411-92788b2def84)
 ![cellcomputing](https://github.com/International-IT-projects/writing/assets/1983701/1ed08974-a1e7-4c7e-9194-1ca3f3374413)
 
