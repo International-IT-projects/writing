@@ -68,7 +68,7 @@ Following example uses OPTIONS API {#example_1}
 ```
 // example.js
   
-import { createApp } from 'vue'
+const { createApp } = Vue
 
 createApp({
   data() {
