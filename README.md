@@ -22,6 +22,8 @@ Perhaps there should be some central hub which tracks the state of different ser
 
 # fantasy cloud game idea
 
+https://replit.com/@GokhanSarigul/SaaSGame
+
 A game where you have to buy servers and keep a website online that receives too much traffic.
 
 ## Summary
